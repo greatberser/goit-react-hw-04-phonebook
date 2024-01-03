@@ -1,0 +1,19 @@
+.contactLine{
+    font-size: 18px;
+    line-height: 1.5;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.contactDelete{
+    padding: 5px 20px;
+    background-color: transparent;
+    border: 1px solid black;
+    border-radius: 40px;
+}
